@@ -93,4 +93,4 @@ The quiz function and running Javascript code in the browser function refer to t
 > [2]	L.-V. Le (2020), code-editor-tutorial. [Source code]. Available: https://github.com/luvuong-le/code-editor-tutorial.
 
 # Gallery
-{{< gallery album="Coding_Sky_Web_App" >}}
+{{< gallery album="coding_sky_web_app" >}}

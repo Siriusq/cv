@@ -226,7 +226,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="Memo" >}}
+        {{< gallery album="memo" >}}
     design:
       columns: '1'
   ######################################################

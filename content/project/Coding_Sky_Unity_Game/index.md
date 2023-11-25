@@ -37,4 +37,4 @@ A funny 3D puzzle coding game designed to stimulate the user's interest in a gam
 Thanks to Unity's cross-platform capabilities, this game can run on iOS, Android, Windows, MacOS, and Linux.
 
 # Gallery
-{{< gallery album="Coding_Sky_Unity_Game" >}}
+{{< gallery album="coding_sky_unity_game" >}}

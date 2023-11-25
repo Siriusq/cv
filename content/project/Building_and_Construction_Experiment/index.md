@@ -41,4 +41,4 @@ This is a construction experiment project led by the CE<sup>3</sup> Laboratory. 
 **Post-project follow-up**: The stability and durability of the experimental wooden structure exceeded expectations. Over a one-year lifecycle, the structure withstood various weather conditions, including typhoons, heavy rain, and substantial snowfall, displaying no significant damage.
 
 # Gallery
-{{< gallery album="Building_and_Construction_Experiment" >}}
+{{< gallery album="building_and_construction_experiment" >}}
