@@ -52,11 +52,11 @@ skills:
         percent: 90
         icon: terminal
         icon_pack: fas
-      - name: Unity
+      - name: Flutter
         description: ''
         percent: 60
-        icon: unity
-        icon_pack: fab
+        icon: code
+        icon_pack: fas
       - name: Python
         description: ''
         percent: 70
@@ -110,9 +110,9 @@ social:
 highlight_name: true
 ---
 
-I am a developer with a primary focus on C# and Unity technologies. 
+I am a software developer specializing in C# and Flutter. 
 
-Currently, I am actively engaged in learning augmented reality development, while also seeking a Ph.D. position in the field of extended reality (XR). My research interests encompass extended reality, human-computer interaction, and game development. 
+My primary focus is on extended reality (XR), and I'm actively expanding my expertise in this field while seeking a Ph.D. position. My research interests include XR, human-computer interaction (HCI), and game development. 
 
-Additionally, I am passionate about contributing to open-source projects and maintaining computers as a hobby.
+Outside of my professional work, I enjoy contributing to open-source projects and maintaining computer hardware.
 {style="text-align: justify;"}
