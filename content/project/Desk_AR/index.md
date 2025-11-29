@@ -17,7 +17,7 @@ links:
   - icon: link
     icon_pack: fas
     name: Live Demo
-    url: https://siriusq.top/desk-ar/
+    url: https://deskar.siriusq.top/
 url_code: 'https://github.com/Siriusq/desk-ar'
 url_pdf: ''
 url_slides: ''

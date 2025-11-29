@@ -16,7 +16,7 @@ links:
   - icon: download
     icon_pack: fas
     name: Software Download
-    url: https://github.com/Siriusq/cycle_it/releases
+    url: https://cycleit.siriusq.top/
 url_code: 'https://github.com/Siriusq/cycle_it'
 url_pdf: ''
 url_slides: ''
