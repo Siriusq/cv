@@ -1,6 +1,6 @@
 ---
 title: Building and Construction Experiment
-summary: A small-scale building experimental project that integrates analysis, design, and construction into one.
+summary: Designed and constructed a full-scale architectural prototype.
 tags:
   - Architecture
 date: '2017-08-14T00:00:00Z'
@@ -31,12 +31,14 @@ slides: ""
 ---
 
 # Introduction
-This is a construction experiment project led by the CE<sup>3</sup> Laboratory. The project involves:
+This is a construction experiment project led by the CE<sup>3</sup> Laboratory.
 
-1. Investigated the physical properties of a fast-growing poplar wood as a building material.
-2. Using this fast-growing poplar wood as the primary building material, designed an experimental wooden architectural structure and conducted 3D modeling of the design.
-3. Leading a team to build a small experimental building to validate the rationality of the design and the durability of the structure.
-4. Gathered student evaluations of this architectural design.
+- Selected as one of ten student‑led projects through a competitive concept design review.
+- Investigated the physical properties of a fast-growing poplar wood as a building material.
+- Using this fast-growing poplar wood as the primary building material, designed an experimental wooden architectural structure and conducted 3D modeling of the design.
+- Led a team of 12 students to refine the design and construct a full‑scale architectural prototype to validate the rationality of the design and the durability of the structure.
+- Gathered student evaluations of this architectural design.
+- Reflected on how full‑scale construction influences human spatial perception and embodied interaction with built form.
 
 **Post-project follow-up**: The stability and durability of the experimental wooden structure exceeded expectations. Over a one-year lifecycle, the structure withstood various weather conditions, including typhoons, heavy rain, and substantial snowfall, displaying no significant damage.
 

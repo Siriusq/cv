@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: '/publication/thesis/A_Web_App_to_Help_Users_Understand_How_to_Code.pdf'
+url_pdf: 'https://drive.google.com/file/d/18EoUOct-eUjGoVYYbAGDvzH_p3T8NLS2/view?usp=drive_link'
 url_code: 'https://github.com/Siriusq/CodingSky'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''

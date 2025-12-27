@@ -1,6 +1,6 @@
 ---
-title: Digital Construction Project
-summary: Constructing landscape walls with the aid of laser processing technology.
+title: Digital Fabrication and Parametric Construction Project
+summary: Implemented a laser-cut template-assisted construction method to fabricate a wave-form landscape wall segment.
 tags:
   - Architecture
 date: '2018-04-27T00:00:00Z'
@@ -31,8 +31,10 @@ slides: ''
 ---
 
 # Introduction
-This project, supported by the Dam-Lab Digital Processing Center's Laser Processing Laboratory, aims to explore how digital techniques can enhance the construction of landscape walls. The project involves:
+This project, led by the Dam-Lab Digital Processing Center, aims to explore how digital techniques can enhance the construction of landscape walls.
 
-1. Utilizing Rhino modeling software and Grasshopper graphical programming plugin to design and 3D model digital landscape walls.
-2. Based on the 3D wall model, creating laser processing template files. With the assistance of the laser processing laboratory, using a laser cutting device to produce auxiliary positioning templates required for wall construction.
-3. Leading a team to build a section of a demonstrative landscape wall with the assistance of the laser-cut positioning templates.
+- Developed a parametric modeling workflow for generating a wave-form landscape wall system with controlled geometric variation.
+- Utilized the parametric 3D models to simulate and compare two digital fabrication strategies: direct robotic arm construction versus laser-cut template-assisted positioning, focusing on constructability and geometric accuracy.
+- Led a 12-member student team to fabricate a wave-form landscape wall segment using the laser-cut template-assisted construction method.
+- Analyzed the role and limitations of digital construction aids in aligning virtual geometry with physical assembly.
+- **Tools**: Rhinoceros 3D, Grasshopper, Autodesk AutoCAD

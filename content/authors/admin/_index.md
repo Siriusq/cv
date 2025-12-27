@@ -36,10 +36,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Science in Software Development
+    - course: MSc in Software Development
       institution: University of Glasgow
       year: 2022
-    - course: Bachelor of Architecture
+    - course: BSc in Architecture
       institution: Qingdao University of Technology
       year: 2020
 # Skills
@@ -71,15 +71,15 @@ skills:
         percent: 100
         icon: screwdriver-wrench
         icon_pack: fas
-      - name: Video game modding
-        description: ''
-        percent: 80
-        icon: gamepad
-        icon_pack: fas
       - name: 3D Modeling
         description: ''
-        percent: 70
+        percent: 90
         icon: cubes
+        icon_pack: fas
+      - name: Photo Editing
+        description: ''
+        percent: 70
+        icon: images
         icon_pack: fas
 
 # Social/Academic Networking
@@ -104,7 +104,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1OyO7YpYuhlSqn571_wvmVw2mJmBTihfZ/view?usp=drive_link
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

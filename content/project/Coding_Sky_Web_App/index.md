@@ -15,7 +15,7 @@ image:
 links:
   - icon: aws
     icon_pack: fab
-    name: Preview (No longer available after December 2022)
+    name: Preview (Server Expired after December 2022)
     url: https://codingsky.online/
 url_code: 'https://github.com/Siriusq/coding_sky'
 url_pdf: ''
@@ -31,7 +31,7 @@ slides: ''
 ---
 
 # Introduction
-This project is a Web App to Help Users Understand How to Code. The project mainly consists of a programming game developed using Unity, a quiz application developed using Django, and a JavaScript online editor based on the Ace editor.
+A comprehensive educational platform designed to support novice programmers through a multi-modal learning experience. The system integrates a Django-based quiz application for conceptual reinforcement, an interactive serious game built in Unity to visualize abstract programming logic in 3D, and a web-based code editor utilizing the Ace editor for hands-on JavaScript practice. The project focuses on bridging the gap between theoretical syntax and practical application through immediate feedback and interactive engagement.
 
 
 # Instructions to run

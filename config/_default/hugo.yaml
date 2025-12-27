@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kai Sun # Website name
-baseURL: "https://siriusq.top/cv" # Website URL
+baseURL: "https://siriusq.top" # Website URL
 
 ############################
 ## LANGUAGE

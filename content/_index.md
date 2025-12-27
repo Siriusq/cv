@@ -20,42 +20,47 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
-
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+      columns: '2'
+  ######################################################
+  # 经历
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Independent Developer
+          company: ''
+          company_url: ''
+          company_logo: siriusq
+          location: China
+          date_start: '2023-03-01'
+          date_end: ''
+          description: |2-
+              * Conducted self‑directed development of multiple software systems across web, mobile, and desktop platforms.
+              * Explored interactive systems, spatial interfaces, and cross‑platform architectures through independent projects.
+              * Conducted early exploration of AR technologies through small‑scale prototypes.
+        - title: Studio Coordinator, Teaching Assistant
+          company: Qingdao University of Technology
+          company_url: https://english.qut.edu.cn/index.htm
+          company_logo: qut
+          location: Qingdao, China
+          date_start: '2016-09-01'
+          date_end: '2020-06-30'
+          description: |2-
+              * Assisted faculty in formulating studio design topics, including site selection and refinement of design objectives.
+              * Supported studio teaching and peer instruction, mentoring junior students in design methods and tools (approx. 16 students per year).
+              * Coordinated student group formation and studio exhibitions, supporting dissemination of design outcomes.
+              * Assisted with studio operations, including facilities management and online teaching organization during COVID‑19.
+    design:
+      columns: '2'
+  ######################################################
   # - block: collection
   #   id: posts
   #   content:
@@ -84,7 +89,6 @@ sections:
   #     view: compact
   #     columns: '2'
   ######################################################
-  ######################################################
   # 证书
   - block: accomplishments
     id: accomplishments
@@ -109,7 +113,7 @@ sections:
         #   organization_url: https://ncre.neea.edu.cn/
         #   title: Advanced Applications of MS Office, Level 2, NCRE
         #   url: ''
-        - certificate_url: https://www.qut.edu.cn/index.htm
+        - certificate_url: https://drive.google.com/file/d/1JrJEqBO4P1tTAeaFzVk2hWcxRLVkOu8g/view?usp=drive_link
           date_end: ''
           date_start: '2017-04-21'
           description: ''
@@ -118,17 +122,18 @@ sections:
           organization_url: https://www.qut.edu.cn/index.htm
           title: Qingdao Architectural Construction Workshop 3.0
           url: ''
-        - certificate_url: https://ncre.neea.edu.cn/
+        - certificate_url: https://drive.google.com/file/d/1Oz2YmBmUlRLEP5zcBBzRt8mlUuVCWifF/view?usp=drive_link
           date_end: ''
           date_start: '2018-09-01'
           description: ''
           icon: neea
           organization: National Education Examinations Authority
           organization_url: https://ncre.neea.edu.cn/
-          title: Network Engineers, Level 4, NCRE
+          title: Network Engineer, Level 4, NCRE
           url: ''
     design:
       columns: '2'
+  ######################################################
   # 项目
   - block: portfolio
     id: projects

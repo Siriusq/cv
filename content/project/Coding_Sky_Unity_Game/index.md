@@ -32,7 +32,7 @@ slides: ''
 ---
 
 # Introduction
-A funny 3D puzzle coding game designed to stimulate the user's interest in a game style. The game contains 8 different levels that will introduce users to basic concepts, functions, loops and loop nesting, conditional statements, etc.
+A Unity-based serious game designed to visualize abstract programming structures through interactive 3D gameplay. The game contains 8 different levels that will introduce users to basic concepts, functions, loops and loop nesting, conditional statements, etc.
 
 Thanks to Unity's cross-platform capabilities, this game can run on iOS, Android, Windows, MacOS, and Linux.
 
