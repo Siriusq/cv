@@ -160,8 +160,6 @@ sections:
           tag: Unity
         - name: UI/UX
           tag: UI
-        - name: Game Mod
-          tag: Game Mod
         - name: Architecture
           tag: Architecture
     design:

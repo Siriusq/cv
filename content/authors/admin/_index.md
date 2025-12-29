@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Developer
+role: Independent Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
-    url: 
+  - name: Siriusq
+    url: https://github.com/Siriusq
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include extended reality, human-computer interaction and game development.
@@ -104,7 +104,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1OyO7YpYuhlSqn571_wvmVw2mJmBTihfZ/view?usp=drive_link
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -1,1 +1,1 @@
-[My Academic CV Website](https://siriusq.top/cv/)
+[My Academic CV Website](https://cv.siriusq.top/)
