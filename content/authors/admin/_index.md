@@ -89,7 +89,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kai.s.sun@outlook.com
+    link: mailto:sirius.k.sun@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kai-s-b558692a0/
